@@ -1,0 +1,181 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: white;
+  font-family: "Inter", sans-serif;
+  background-color: black;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 1100px;
+  height: 826px;
+  background-color: white;
+}
+.wrapper .header {
+  width: 1100px;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper .header .image {
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper .header .link {
+  display: inline-block;
+  padding-top: 24px;
+}
+.wrapper .header .categories {
+  margin-left: 24px;
+}
+.wrapper .header .trending {
+  margin-left: 24px;
+}
+.wrapper .header .popular {
+  margin-left: 24px;
+}
+.wrapper .header .new {
+  margin-left: 24px;
+}
+.wrapper .center {
+  width: 1100px;
+  height: 611px;
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper .center .kub {
+  display: inline-block;
+}
+.wrapper .center .block {
+  width: 350px;
+  height: 511px;
+  background-color: rgb(0, 0, 26);
+  display: inline-block;
+  margin-left: auto;
+}
+.wrapper .center h2 {
+  color: #E9AA52;
+  margin-left: 24px;
+  margin-top: 32px;
+  font-size: 40px;
+}
+.wrapper .center .text1 {
+  margin-top: 34px;
+  margin-left: 24px;
+}
+.wrapper .center .text2 {
+  color: #C5C6CE;
+  margin-left: 24px;
+  margin-top: 8px;
+  width: 302px;
+}
+.wrapper .center .line {
+  width: 302px;
+  height: 1px;
+  margin: auto;
+  background-color: #C5C6CE;
+  margin-top: 29px;
+}
+.wrapper .center .text3 {
+  margin-top: 31px;
+  margin-left: 24px;
+}
+.wrapper .center .text4 {
+  color: #C5C6CE;
+  margin-top: 8px;
+  margin-left: 24px;
+}
+.wrapper .center .line1 {
+  width: 302px;
+  height: 1px;
+  margin: auto;
+  background-color: #C5C6CE;
+  margin-top: 29px;
+}
+.wrapper .center .text5 {
+  margin-left: 24px;
+  margin-top: 31px;
+}
+.wrapper .center .text6 {
+  margin-left: 24px;
+  margin-top: 8px;
+  color: #C5C6CE;
+  width: 302px;
+}
+.wrapper .center .box {
+  display: flex;
+}
+.wrapper .center .h1 {
+  font-size: 26px;
+  width: 350px;
+  margin-top: 24px;
+  color: black;
+}
+.wrapper .center .write {
+  width: 300px;
+  height: 104px;
+  color: rgb(94, 96, 122);
+}
+.wrapper .center .writer {
+  width: 350px;
+  font-size: 15px;
+  margin-top: 38px;
+}
+.wrapper .center button {
+  width: 185px;
+  height: 48px;
+  background-color: #F15D51;
+  color: white;
+  margin-top: 40px;
+  border: 0;
+}
+.wrapper .box1 {
+  display: flex;
+  width: 300px;
+  height: 130px;
+}
+.wrapper .h3 {
+  margin-left: 10px;
+}
+.wrapper .footer {
+  width: 1100px;
+  height: 129px;
+  display: flex;
+  color: rgb(94, 96, 122);
+  justify-content: space-between;
+}
+.wrapper .footer .box2 {
+  display: flex;
+  width: 300px;
+  height: 130px;
+}
+.wrapper .footer .box3 {
+  display: flex;
+  width: 300px;
+  height: 130px;
+}
+.wrapper .footer .h4 {
+  margin-top: 8px;
+  margin-bottom: 12px;
+  color: black;
+}
+.wrapper .footer .hh4 {
+  margin-bottom: 12px;
+  margin-top: 8;
+  color: black;
+}
+.wrapper .footer .hhh4 {
+  margin-top: 8px;
+  margin-bottom: 12px;
+  color: black;
+}
+.wrapper .footer .text8 {
+  width: 236px;
+}/*# sourceMappingURL=style.css.map */
